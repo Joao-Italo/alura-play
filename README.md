@@ -17,5 +17,5 @@
 * JavaScript
 
 ## Screenshots
-![Screenshot da tela inicial do AluraPlay](https://imgur.com/a/AHz2wMe.png)
+![Screenshot da tela inicial do AluraPlay](https://imgur.com/a/UdDGzw4.png)
 ![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
